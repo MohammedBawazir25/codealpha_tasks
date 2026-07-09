@@ -1,0 +1,36 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Models
+
+models/*.pkl
+
+# Dataset (optional)
+
+data/raw/*.csv
+
+# VS Code
+
+.vscode/
+
+# Mac
+
+.DS_Store
+
+# Logs
+
+*.log
